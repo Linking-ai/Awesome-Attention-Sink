@@ -48,7 +48,7 @@
 This repository organizes papers on **Attention Sink (AS)** — where Transformers disproportionately focus on uninformative tokens, causing interpretability issues, training/inference inefficiencies, and hallucinations.
 
 <div align="center">
-  <img src="Figures/paper_overview.png" alt="Survey Framework" width="80%">
+  <img src="Figures/paper_overview.png" alt="Survey Framework" width="95%">
   <br>
   <em>Figure 1: Overview of the survey structure.</em>
 </div>
@@ -83,7 +83,7 @@ This repository organizes papers on **Attention Sink (AS)** — where Transforme
 
 ## 📑 Paper List
 
-> Each paper is annotated with tags corresponding to the three AS dimensions. A dash `—` indicates that a particular dimension is not addressed in the work.
+> Each paper is annotated with tags corresponding to specific aspects of Fundamental Utilization, Mechanistic Interpretation, and Strategic Mitigation of AS. As most studies do not target all three key aspects, the symbol `—` denotes the absence of a particular dimension in a given work.
 
 ### Classical Language Models
 
