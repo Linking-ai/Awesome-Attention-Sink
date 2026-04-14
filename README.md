@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ZunhaiSu/Awesome-Attention-Sink/releases)
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2604.10098)
 [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.10098-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2604.10098)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/ZunhaiSu/Awesome-Attention-Sink?style=social)](https://github.com/ZunhaiSu/Awesome-Attention-Sink/stargazers)
@@ -39,6 +39,8 @@
 
 ## 🔥 Latest News
 
+- **[2026-04-14]** We are currently fine-tuning the paper for journal submission. If you have any questions or would like to cite our work, please feel free to contact us at [zh-su23@mails.tsinghua.edu.cn](mailto:zh-su23@mails.tsinghua.edu.cn).
+- **[2026-04-14]** Our survey paper *"Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation"* is now available on arXiv! [[Link](https://arxiv.org/abs/2604.10098)]
 - **[2026-04-11]** Repository launched to track the latest progress in Attention Sink research.
 
 ---
